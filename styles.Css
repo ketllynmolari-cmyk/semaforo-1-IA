@@ -1,0 +1,4 @@
+body { text-align: center; font-family: Arial; }
+.semaforo { background: black; width: 100px; margin: 20px auto; padding: 15px; border-radius: 20px; }
+.luz { width: 60px; height: 60px; background: gray; border-radius: 50%; margin: 10px auto; }
+button { padding: 10px; margin: 5px; cursor: pointer; }
